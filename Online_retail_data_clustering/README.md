@@ -162,6 +162,6 @@ This project aims to:
 
 **Phu Nguyen Nhu**
 
-- 📧 Email: [Your Email Here]
+- 📧 Email: phunhunguyen2012@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/phu-nguyen-nhu-897298286/)
 - 📄 [Resume](https://drive.google.com/drive/u/0/folders/1e7KDADeQA-tRycGcJw0HI0s5bovpT0P6)
