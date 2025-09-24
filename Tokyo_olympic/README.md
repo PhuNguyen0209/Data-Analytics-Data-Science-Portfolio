@@ -122,7 +122,10 @@ Do host nations perform better in medal counts compared to years before and afte
 
    ```
 
-3. pip install pandas numpy matplotlib seaborn
+3. Install required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+   ```
 
 ## 📈 Results & Conclusion
 
